@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\.idea\OpenClassrooms---Parcours-Android-master.iml" timestamp="1582824061187" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\.idea\codeStyles\Project.xml" timestamp="1582744707610" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\.idea\misc.xml" timestamp="1582824061250" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\.idea\modules.xml" timestamp="1582744707409" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\.idea\workspace.xml" timestamp="1582824125319" />
+  </project-files>
+</conversion>
+

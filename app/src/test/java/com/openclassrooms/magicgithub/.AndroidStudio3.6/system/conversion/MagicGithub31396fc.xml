@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\codeStyles\Project.xml" timestamp="1582824150007" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\encodings.xml" timestamp="1582744539997" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\gradle.xml" timestamp="1582824149960" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\misc.xml" timestamp="1582744540148" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\runConfigurations.xml" timestamp="1582744540220" />
+    <file path="C:\Users\GUILHEM\Downloads\OpenClassrooms---Parcours-Android-master\OpenClassrooms---Parcours-Android-master\Projet_Analysez_les_tests_dune_application\MagicGithub\.idea\workspace.xml" timestamp="1582824149835" />
+  </project-files>
+</conversion>
+

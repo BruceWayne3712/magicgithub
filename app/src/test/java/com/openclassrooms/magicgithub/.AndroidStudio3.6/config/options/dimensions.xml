@@ -1,0 +1,21 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="802" y="369" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="496" y="252" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="580" y="183" />
+    <location key="SettingsEditor.0.0.1600.900" x="442" y="24" />
+    <location key="#Notifications.0.0.1600.900" x="548" y="111" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1600.900" x="558" y="301" />
+    <location key="run.anything.popup.0.0.1600.900" x="456" y="190" />
+    <location key="ide.config.custom.settings.0.0.1600.900" x="574" y="311" />
+    <location key="#PSD.0.0.1600.900" x="296" y="157" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1600.900" x="359" y="80" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1600.900" x="627" y="314" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1600.900" x="233" y="80" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1340" height="219" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1340" height="219" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1340" height="219" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1340" height="219" />
+    <size key="SettingsEditor.0.0.1600.900" width="1028" height="836" />
+  </component>
+</application>
